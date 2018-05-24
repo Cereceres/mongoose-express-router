@@ -1,0 +1,32 @@
+{
+  "name": "mongoose-express-router",
+  "version": "1.0.0",
+  "description": "mongoose router to express js",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test --exit --timeout 5000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cereceres/mongoose-express-router.git"
+  },
+  "keywords": [
+    "mongoose",
+    "express",
+    "router",
+    "api"
+  ],
+  "author": "Jesus Edel Cereceres",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cereceres/mongoose-express-router/issues"
+  },
+  "homepage": "https://github.com/Cereceres/mongoose-express-router#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "mongoose": "^5.1.2",
+    "supertest": "^3.1.0"
+  }
+}
