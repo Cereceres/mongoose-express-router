@@ -1,5 +1,5 @@
 {
-  "name": "mongoose-express-router",
+  "name": "expressing-mongoose",
   "version": "1.0.0",
   "description": "mongoose router to express js",
   "main": "index.js",
