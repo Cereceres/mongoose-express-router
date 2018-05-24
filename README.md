@@ -1,10 +1,11 @@
 # expressing-mongoose
 mongoose router to express js
 
-# Usage
-
 # Install
     npm  install --save expressing-mongoose
+    
+# Usage
+
 
 ```js
 const mongooseRouter = require('mongoose-express-router')
